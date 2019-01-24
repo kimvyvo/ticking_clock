@@ -1,0 +1,14 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    height: 100vh; 
+    background: #b7deea;
+    color: #5c95a7;
+}
+
+img {
+    height: 300px;
+}
